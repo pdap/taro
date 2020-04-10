@@ -1,7 +1,8 @@
 ---
 title: 接入统计平台
 ---
-
+## 接入友盟+小程序统计
+详见github文档[《友盟+小程序统计sdk如何优雅跨平台集成taro框架》](https://github.com/umeng/mp-demos/tree/master/taro)
 ## 接入百度统计平台
 ### 微信小程序接入百度统计
 1、在[百度统计平台](https://mtj.baidu.com/web/sdk/index) 的 「小程序SDK」 里下载「微信小程序统计SDK」，把解压缩得到的 `mtj-wx-sdk.js` 和 `mtj-wx-sdk.config.js` 拷贝到小程序项目的 `src/utils` 文件夹中。
